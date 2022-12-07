@@ -27,7 +27,7 @@ _open_files:
     ;open output file
     mov rax, 2
     mov rdi, output_filename
-    mov rsi, 65 ;0102o 
+    mov rsi, 1089 ;0102o 
     mov rdx, 0664o
     syscall
     ;store pointer to output file
