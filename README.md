@@ -15,3 +15,7 @@ To link:
 Then run:
 
 `./task`
+
+FLOW for checking the bytes, a bit basic but it works.
+
+<img src="./flow.svg">
